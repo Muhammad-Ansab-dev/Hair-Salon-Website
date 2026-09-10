@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 300" fill="none">
+  <rect x="72" y="30" width="16" height="28" fill="#1c1c1c" />
+  <path d="M60 20 H94 C97 20 100 23 100 26 V30 H54 V26 C54 23 57 20 60 20 Z" fill="#2a2a2a" />
+  <path d="M60 22 C42 22 36 26 34 32 C33 35 36 36 39 34 C44 31 52 30 60 30 Z" fill="#1c1c1c" />
+  <rect x="64" y="58" width="32" height="12" rx="2" fill="#333333" />
+  <rect x="62" y="70" width="36" height="6" fill="#1a1a1a" />
+  <rect x="42" y="76" width="76" height="195" rx="14" fill="#141414" />
+  <path d="M46 86 C46 80 50 78 56 78 H60 V265 H54 C48 265 46 260 46 254 Z" fill="white" fill-opacity="0.07" />
+  <rect x="106" y="86" width="4" height="175" rx="2" fill="white" fill-opacity="0.04" />
+  <rect x="52" y="112" width="56" height="74" fill="#181818" stroke="#333333" stroke-width="0.8" />
+  <rect x="58" y="118" width="44" height="38" fill="#000000" />
+  <text x="80" y="129" fill="#ffffff" font-size="6" font-family="Montserrat, sans-serif" font-weight="300" text-anchor="middle" letter-spacing="0.1em">haircare</text>
+  <text x="80" y="145" fill="#ffffff" font-size="13" font-family="Montserrat, sans-serif" font-weight="900" text-anchor="middle" letter-spacing="0.02em">paul</text>
+  <text x="80" y="170" fill="#a0a0a0" font-size="5" font-family="Montserrat, sans-serif" font-weight="600" text-anchor="middle" letter-spacing="0.15em">OIL</text>
+  <text x="80" y="177" fill="#777777" font-size="4.5" font-family="Montserrat, sans-serif" text-anchor="middle">50ml</text>
+  <path d="M44 266 C44 271 48 274 54 274 H106 C112 274 116 271 116 266 V268 C116 273 112 276 106 276 H54 C48 276 44 273 44 268 Z" fill="#080808" />
+</svg>

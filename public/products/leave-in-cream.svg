@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 300" fill="none">
+  <path d="M52 64 L58 246 C58 252 66 256 76 256 H84 C94 256 102 252 102 246 L108 64 Z" fill="#161616" />
+  <rect x="50" y="58" width="60" height="7" rx="1.5" fill="#2d2d2d" />
+  <line x1="56" y1="59" x2="56" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="62" y1="59" x2="62" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="68" y1="59" x2="68" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="74" y1="59" x2="74" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="80" y1="59" x2="80" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="86" y1="59" x2="86" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="92" y1="59" x2="92" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="98" y1="59" x2="98" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <line x1="104" y1="59" x2="104" y2="64" stroke="#1f1f1f" stroke-width="1" />
+  <path d="M56 68 L61 246 H68 L64 68 Z" fill="white" fill-opacity="0.06" />
+  <rect x="68" y="256" width="24" height="18" rx="2" fill="#262626" />
+  <rect x="65" y="274" width="30" height="4" rx="1" fill="#191919" />
+  <rect x="62" y="94" width="36" height="46" fill="#000000" stroke="#333333" stroke-width="0.8" />
+  <text x="80" y="108" fill="#ffffff" font-size="5.5" font-family="Montserrat, sans-serif" font-weight="300" text-anchor="middle" letter-spacing="0.1em">haircare</text>
+  <text x="80" y="126" fill="#ffffff" font-size="12" font-family="Montserrat, sans-serif" font-weight="900" text-anchor="middle" letter-spacing="0.02em">paul</text>
+  <text x="80" y="162" fill="#888888" font-size="4.5" font-family="Montserrat, sans-serif" font-weight="600" text-anchor="middle" letter-spacing="0.12em">LEAVE-IN CREAM</text>
+  <text x="80" y="170" fill="#666666" font-size="4" font-family="Montserrat, sans-serif" text-anchor="middle">120ml</text>
+</svg>

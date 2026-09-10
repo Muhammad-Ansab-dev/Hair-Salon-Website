@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 320" fill="none">
+  <rect x="74" y="24" width="12" height="32" fill="#181818" />
+  <path d="M66 14 H94 C97 14 99 16 99 19 V24 H61 V19 C61 16 63 14 66 14 Z" fill="#2e2e2e" />
+  <path d="M66 16 C48 16 40 21 38 27 C37 30 40 31 43 29 C49 26 57 24 66 24 Z" fill="#1c1c1c" />
+  <rect x="68" y="56" width="24" height="16" fill="#292929" />
+  <path d="M50 82 C50 74 60 70 70 70 H90 C100 70 110 74 110 82 V280 C110 288 102 292 92 292 H68 C58 292 50 288 50 280 Z" fill="#121212" />
+  <path d="M54 84 C54 78 62 74 70 74 H74 V286 H68 C60 286 54 282 54 276 Z" fill="white" fill-opacity="0.06" />
+  <rect x="60" y="106" width="40" height="52" fill="#000000" stroke="#2c2c2c" stroke-width="0.8" />
+  <text x="80" y="122" fill="#ffffff" font-size="6.5" font-family="Montserrat, sans-serif" font-weight="300" text-anchor="middle" letter-spacing="0.1em">haircare</text>
+  <text x="80" y="142" fill="#ffffff" font-size="14" font-family="Montserrat, sans-serif" font-weight="900" text-anchor="middle" letter-spacing="0.02em">paul</text>
+  <text x="80" y="186" fill="#888888" font-size="4.8" font-family="Montserrat, sans-serif" font-weight="700" text-anchor="middle" letter-spacing="0.12em">REPAIR SERUM</text>
+  <text x="80" y="195" fill="#666666" font-size="4.2" font-family="Montserrat, sans-serif" text-anchor="middle">200ml</text>
+</svg>

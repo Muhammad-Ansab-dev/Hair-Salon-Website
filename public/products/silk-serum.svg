@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 300" fill="none">
+  <path d="M72 44 C72 32 76 20 84 20 C92 20 98 28 98 44 V68 H72 Z" fill="#202020" />
+  <path d="M74 42 C74 34 77 24 84 24 C89 24 93 29 94 40 V68 H74 Z" fill="#2b2b2b" />
+  <rect x="66" y="68" width="34" height="8" fill="#151515" />
+  <path d="M52 110 C52 82 64 76 80 76 C96 76 108 82 108 110 V250 C108 266 96 274 80 274 C64 274 52 266 52 250 Z" fill="#131313" />
+  <path d="M56 112 C56 88 66 82 76 80 V268 C66 266 56 260 56 248 Z" fill="white" fill-opacity="0.07" />
+  <rect x="64" y="130" width="32" height="42" fill="#000000" stroke="#333333" stroke-width="0.8" />
+  <text x="80" y="142" fill="#ffffff" font-size="5" font-family="Montserrat, sans-serif" font-weight="300" text-anchor="middle" letter-spacing="0.1em">haircare</text>
+  <text x="80" y="157" fill="#ffffff" font-size="11" font-family="Montserrat, sans-serif" font-weight="900" text-anchor="middle" letter-spacing="0.02em">paul</text>
+  <text x="80" y="196" fill="#888888" font-size="4.5" font-family="Montserrat, sans-serif" font-weight="600" text-anchor="middle" letter-spacing="0.1em">FOAM</text>
+  <text x="80" y="204" fill="#666666" font-size="4" font-family="Montserrat, sans-serif" text-anchor="middle">80ml</text>
+</svg>

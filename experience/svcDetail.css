@@ -1,0 +1,146 @@
+.svc-detail {
+  min-height: 100vh;
+  background: #fff;
+  color: #0b0b0b;
+  padding: 150px clamp(20px, 6vw, 96px) 140px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 460px);
+  gap: clamp(30px, 5vw, 80px);
+  align-items: start;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.svc-media {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #f1f1f1;
+}
+
+.svc-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.svc-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+.svc-content > * {
+  margin-top: 0;
+}
+
+.svc-back {
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: #8a8a8a;
+  text-decoration: none;
+  transition: color 0.25s ease;
+}
+
+.svc-back:hover {
+  color: #0b0b0b;
+}
+
+.svc-kicker {
+  font-size: 10px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: #989898;
+  margin-top: 8px;
+}
+
+.svc-name {
+  font-size: clamp(34px, 4vw, 64px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 0.96;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.svc-desc {
+  font-size: 15px;
+  line-height: 1.75;
+  color: #5f5f5f;
+  max-width: 42ch;
+  margin: 0;
+}
+
+.svc-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 30px;
+  padding: 16px 0;
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
+  width: 100%;
+}
+
+.svc-price {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.svc-duration {
+  font-size: 11px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: #8d8d8d;
+}
+
+.svc-book {
+  margin-top: 8px;
+  background: #0b0b0b;
+  color: #fff;
+  border: 0;
+  padding: 18px 28px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.25s ease;
+}
+
+.svc-book:hover {
+  background: #333;
+}
+
+.svc-not-found {
+  min-height: 80vh;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 16px;
+  background: #fff;
+  color: #0b0b0b;
+  text-align: center;
+}
+
+.svc-not-found h1 {
+  font-size: clamp(28px, 4vw, 40px);
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+}
+
+.svc-not-found a {
+  color: #0b0b0b;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 900px) {
+  .svc-detail {
+    grid-template-columns: 1fr;
+    padding: 120px 18px 80px;
+    gap: 26px;
+  }
+}

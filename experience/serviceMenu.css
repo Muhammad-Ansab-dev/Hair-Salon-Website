@@ -1,0 +1,21 @@
+.svcm-list {
+  position: relative;
+  max-height: 340px;
+  overflow-y: auto;
+  padding-right: 14px;
+  scrollbar-width: thin;
+  scrollbar-color: #111 transparent;
+}
+
+.svcm-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+.svcm-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.svcm-list::-webkit-scrollbar-thumb {
+  background: #111;
+  border-radius: 999px;
+}
